@@ -24,9 +24,7 @@ I also work closely with [Prof. Wei Li](https://lwkobe.github.io/) at the [John 
 
 My research interests lie at the intersection of computer graphics, robotics, differentiable physical simulation, and neuro-physical hybrid modeling.
 
-# Awards
+### Awards and Honors
 
-- National Scholarship
-- Zhiyuan Engineering Honors Scholarship
-
-# Publications
+- National Scholarship (Top 0.2%), 2025.
+- Zhiyuan Engineering Honors Scholarship, 2023, 2024, 2025.
