@@ -70,7 +70,7 @@ github_username: illusionarydream
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: #
+linkedin_username: # your LinkedIn user name (e.g., linkedin.com/in/username)
 telegram_username: # your Telegram user name
 scholar_userid: #
 semanticscholar_id: # your Semantic Scholar ID
@@ -272,8 +272,8 @@ display_categories: ['misc'] # these categories will be displayed on the front p
 
 scholar:
 
-  last_name: Wang
-  first_name: Hui
+  last_name: Quan
+  first_name: Yuhao
 
   style: apa
   locale: en
