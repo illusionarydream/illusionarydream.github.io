@@ -9,8 +9,6 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>5405, School of Software</p>
-    # <p>Shanghai Jiao Tong University</p>
     <p>Shanghai, China</p>
 
 news: true  # includes a list of news items
